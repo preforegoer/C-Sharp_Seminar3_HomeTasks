@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\bin\Debug\net7.0\Task21 - 3DDistance.exe
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\bin\Debug\net7.0\Task21 - 3DDistance.deps.json
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\bin\Debug\net7.0\Task21 - 3DDistance.runtimeconfig.json
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\bin\Debug\net7.0\Task21 - 3DDistance.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\bin\Debug\net7.0\Task21 - 3DDistance.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\Task21 - 3DDistance.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\Task21 - 3DDistance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\Task21 - 3DDistance.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\Task21 - 3DDistance.AssemblyInfo.cs
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\Task21 - 3DDistance.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\Task21 - 3DDistance.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\refint\Task21 - 3DDistance.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\Task21 - 3DDistance.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\Task21 - 3DDistance.genruntimeconfig.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task21 - 3DDistance\obj\Debug\net7.0\ref\Task21 - 3DDistance.dll

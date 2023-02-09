@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\Task23 - Cubes.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\Task23 - Cubes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\Task23 - Cubes.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\Task23 - Cubes.AssemblyInfo.cs
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\Task23 - Cubes.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\bin\Debug\net7.0\Task23 - Cubes.exe
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\bin\Debug\net7.0\Task23 - Cubes.deps.json
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\bin\Debug\net7.0\Task23 - Cubes.runtimeconfig.json
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\bin\Debug\net7.0\Task23 - Cubes.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\bin\Debug\net7.0\Task23 - Cubes.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\Task23 - Cubes.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\refint\Task23 - Cubes.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\Task23 - Cubes.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\Task23 - Cubes.genruntimeconfig.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task23 - Cubes\obj\Debug\net7.0\ref\Task23 - Cubes.dll

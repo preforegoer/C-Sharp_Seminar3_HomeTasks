@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\bin\Debug\net7.0\Task19 - Polydrone.exe
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\bin\Debug\net7.0\Task19 - Polydrone.deps.json
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\bin\Debug\net7.0\Task19 - Polydrone.runtimeconfig.json
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\bin\Debug\net7.0\Task19 - Polydrone.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\bin\Debug\net7.0\Task19 - Polydrone.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\Task19 - Polydrone.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\Task19 - Polydrone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\Task19 - Polydrone.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\Task19 - Polydrone.AssemblyInfo.cs
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\Task19 - Polydrone.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\Task19 - Polydrone.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\refint\Task19 - Polydrone.dll
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\Task19 - Polydrone.pdb
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\Task19 - Polydrone.genruntimeconfig.cache
+C:\Users\User\Desktop\C-Sharp_Seminar3_HomeTasks\Task19 - Polydrone\obj\Debug\net7.0\ref\Task19 - Polydrone.dll
